@@ -7,4 +7,4 @@
 - 💬 Ask me about working in enterprise software development.
 - 📫 How to reach me: By [email](ypermitin@yandex.ru)
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I like to walking in the pouring rain. :rainbow:
+- ⚡ Fun fact: I like to to walking in the pouring rain. :rainbow:
