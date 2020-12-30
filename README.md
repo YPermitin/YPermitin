@@ -20,6 +20,6 @@
 * ⚡ [Zabbix-template-for-Microsoft-SQL-Server-Analysis-Services](https://github.com/YPermitin/Zabbix-template-for-Microsoft-SQL-Server-Analysis-Services) - Zabbix template for Microsoft SQL Server Analysis Services to collect data from perfomance counters.
 * ⚡ [PerformanceMeasurementsAnalyzer-for-1C-Enterprise](https://github.com/YPermitin/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x) - report for analyzing performance measures by Apdex methodology on the context of 1C:Enterprise.
 * ⚡ [PowerShellTools](https://github.com/YPermitin/PowerShellTools) - tiny repo with PowerShell scripts.
-* ⚡ [ClickHouseTools](https://github.com/YPermitin/ClickHouseTools) - and too tine repo with some info about ClickHouse.
+* ⚡ [ClickHouseTools](https://github.com/YPermitin/ClickHouseTools) - and too tiny repo with some info about ClickHouse.
 
 ### You can found me on the [my personal website](https://ypermitin.github.io/).
