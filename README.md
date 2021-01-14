@@ -9,6 +9,8 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like to walking in the pouring rain. :rainbow:
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ypermitin&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ypermitin&hide=TeX&layout=compact)
+
 ### **There are my projects**:
 
 * ⚡ [SQLServerTools](https://github.com/YPermitin/SQLServerTools) & [PGTools](https://github.com/YPermitin/PGTools) - collections of scripts and useful information about SQL Server and PostgreSQL.
