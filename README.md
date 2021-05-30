@@ -14,6 +14,7 @@
 ### **There are my projects**:
 
 * ⚡ [SQLServerTools](https://github.com/YPermitin/SQLServerTools) & [PGTools](https://github.com/YPermitin/PGTools) - collections of scripts and useful information about SQL Server and PostgreSQL.
+* ⚡ [YY.DBTools](https://github.com/YPermitin/YY.DBTools) - utilities for various DBMS (monitoring, diagnostics and other tasks).
 * ⚡ [YY.EventLogReaderAssistant](https://github.com/YPermitin/YY.EventLogReaderAssistant) & [YY.EventLogExportAssistant](https://github.com/YPermitin/YY.EventLogExportAssistant) - libraries for working with event log of 1C:Enterprise platform.
 * ⚡ [YY.TechJournalReaderAssistant](https://github.com/YPermitin/YY.TechJournalReaderAssistant) & [YY.TechJournalExportAssistant](https://github.com/YPermitin/YY.TechJournalExportAssistant) - libraries for working with technology journal (log) of 1C:Enterprise platform.
 * ⚡ [YY.YellowDiagnostician](https://github.com/YPermitin/YY.YellowDiagnostician) - an experimental component on C++ for diagnostics of the 1C:Enterprise 8.x platform.
