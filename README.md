@@ -1,4 +1,4 @@
-## [You can found in Telegram](https://t.me/DevQuietPlace)
+## [You can found me in Telegram](https://t.me/DevQuietPlace)
 
 ### Hi there, I am Yuriy. 👋
 
