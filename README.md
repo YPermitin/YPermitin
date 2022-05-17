@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on .NET projects.
 - 🤔 I’m looking for help with on creating content around emerging technologies.
 - 💬 Ask me about working in enterprise software development.
-- 📫 How to reach me: By [email](ypermitin@yandex.ru)
+- 📫 How to reach me: By [email](i.need.ypermitin@yandex.ru)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like to walking in the pouring rain. :rainbow:
 
