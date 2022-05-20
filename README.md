@@ -1,3 +1,32 @@
+## [Вы можете найти меня в Телеграм](https://t.me/DevQuietPlace)
+
+### Всем привет, мое имя Юрий. 👋
+
+- 🔭 Сейчас я работаю над некоторыми библиотеками и техническими статьями!
+- 🌱 В данный момент изучаю работу с платформой .NET (Xamarin, ASP.NET Core etc.), ClickHouse, PostgreSQL and администрирование Linux.
+- 👯 Не против найти .NET-проект для совместной работы.
+- 🤔 Было бы интересно получить помощь по созданию инструкций и статьей по новым технологиям.
+- 💬 Готов пообщаться по вопросам, связанных с созданием корпоративного программного обеспечения.
+- 📫 По всем вопросам писать только сюда: [email](i.need.ypermitin@yandex.ru)
+- 😄 Произносится: он/его
+- ⚡ Забавный факт: Люблю гулять под проливным дождем. :rainbow:
+
+### **Немного моих проектов**:
+
+* ⚡ [SQLServerTools](https://github.com/YPermitin/SQLServerTools) & [PGTools](https://github.com/YPermitin/PGTools) - набор скриптов, инструментов и других полезных материалов по SQL Server и PostgreSQL.
+* ⚡ [YY.DBTools](https://github.com/YPermitin/YY.DBTools) - утилиты для различных СУБД (мониторинг, диагностика и другие задачи).
+* ⚡ [YY.EventLogReaderAssistant](https://github.com/YPermitin/YY.EventLogReaderAssistant) & [YY.EventLogExportAssistant](https://github.com/YPermitin/YY.EventLogExportAssistant) - библиотеки для работы с журналом регистрации платформы 1С.
+* ⚡ [YY.TechJournalReaderAssistant](https://github.com/YPermitin/YY.TechJournalReaderAssistant) & [YY.TechJournalExportAssistant](https://github.com/YPermitin/YY.TechJournalExportAssistant) - библиотеки для работу с технологическим журналом платформы 1С.
+* ⚡ [YY.YellowDiagnostician](https://github.com/YPermitin/YY.YellowDiagnostician) - экспериментальная компонента для платформы 1С для диагностики работы процессов.
+* ⚡ [MagickPlatformHistory](https://github.com/YPermitin/MagickPlatformHistory) - секретный репозиторий 😄 с историе публикаций некоторых продуктов.
+* ⚡ [YellowYard.NET](https://github.com/YPermitin/YellowYard.NET) - простой список проектов, где мир .NET встречается с 1С.
+* ⚡ [Zabbix-template-for-Microsoft-SQL-Server-Analysis-Services](https://github.com/YPermitin/Zabbix-template-for-Microsoft-SQL-Server-Analysis-Services) - шаблон Zabbix для Microsoft SQL Server Analysis Services со сбором показателей производитлеьности.
+* ⚡ [PerformanceMeasurementsAnalyzer-for-1C-Enterprise](https://github.com/YPermitin/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x) - отчет для анализа данных метрик производительности по методике Apdex.
+* ⚡ [PowerShellTools](https://github.com/YPermitin/PowerShellTools) - небольшой репозиторий с полезными скриптами и материалами по PowerShell.
+* ⚡ [ClickHouseTools](https://github.com/YPermitin/ClickHouseTools) - совсем небольшой репозиторий с информацией о ClickHouse.
+
+### Также Вы можете найти меня [на моем сайте](https://ypermitin.github.io/).
+
 ## [You can found me in Telegram](https://t.me/DevQuietPlace)
 
 ### Hi there, I am Yuriy. 👋
@@ -10,8 +39,6 @@
 - 📫 How to reach me: By [email](i.need.ypermitin@yandex.ru)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like to walking in the pouring rain. :rainbow:
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ypermitin&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ypermitin&hide=TeX&layout=compact)
 
 ### **There are my projects**:
 
@@ -28,3 +55,5 @@
 * ⚡ [ClickHouseTools](https://github.com/YPermitin/ClickHouseTools) - and too tiny repo with some info about ClickHouse.
 
 ### You can found me on the [my personal website](https://ypermitin.github.io/).
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ypermitin&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ypermitin&hide=TeX&layout=compact)
