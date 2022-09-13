@@ -29,5 +29,3 @@
 * ⚡ [PerformanceMeasurementsAnalyzer-for-1C-Enterprise](https://github.com/YPermitin/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x) - отчет для анализа данных метрик производительности по методике Apdex.
 
 ### Также Вы можете найти меня [на моем сайте](https://ypermitin.github.io/).
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ypermitin&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ypermitin&hide=TeX&layout=compact)
