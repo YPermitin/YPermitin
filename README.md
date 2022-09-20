@@ -16,6 +16,7 @@
 * ⚡ [SQLServerTools](https://github.com/YPermitin/SQLServerTools) & [PGTools](https://github.com/YPermitin/PGTools) & [ClickHouseTools](https://github.com/YPermitin/ClickHouseTools) - набор скриптов, инструментов и других полезных материалов по SQL Server, PostgreSQL и ClickHouse.
 * ⚡ [PowerShellTools](https://github.com/YPermitin/PowerShellTools) - небольшой репозиторий с полезными скриптами и материалами по PowerShell.
 * ⚡ [TinyDevTools](https://github.com/YPermitin/YPermitin.TinyDevTools) - небольшое Web-приложение на базе Blazor с различными инструментами для разработчика и некоторыми результатами экспериментов в разработке.
+* ⚡ [FIASToolSet](https://github.com/YPermitin/YPermitin.FIASToolSet) - набор инструментов, утилит и библиотек для работы с ФИАС.
 * ⚡ [Zabbix-template-for-Microsoft-SQL-Server-Analysis-Services](https://github.com/YPermitin/Zabbix-template-for-Microsoft-SQL-Server-Analysis-Services) - шаблон Zabbix для Microsoft SQL Server Analysis Services со сбором показателей производитлеьности.
 * ⚡ [YY.DBTools](https://github.com/YPermitin/YY.DBTools) - утилиты для различных СУБД (мониторинг, диагностика и другие задачи).
 
