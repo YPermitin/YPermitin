@@ -27,4 +27,4 @@
 * ⚡ [YellowYard.NET](https://github.com/YPermitin/YellowYard.NET) - простой список проектов, где мир .NET встречается с 1С.
 * ⚡ [PerformanceMeasurementsAnalyzer-for-1C-Enterprise](https://github.com/YPermitin/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x) - отчет для анализа данных метрик производительности по методике Apdex.
 
-### Также Вы можете найти меня [на моем сайте](https://ypermitin.github.io/).
+### Также Вы можете найти меня [на моем сайте](https://ypermitin.github.io/), а новости по проектам или новым материалам в [Telegram-канале](https://t.me/TinyDevVault).
