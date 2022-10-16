@@ -17,7 +17,7 @@
 * ⚡ [FIASToolSet](https://github.com/YPermitin/YPermitin.FIASToolSet) - набор инструментов, утилит и библиотек для работы с ФИАС.
 * ⚡ [Zabbix-template-for-Microsoft-SQL-Server-Analysis-Services](https://github.com/YPermitin/Zabbix-template-for-Microsoft-SQL-Server-Analysis-Services) - шаблон Zabbix для Microsoft SQL Server Analysis Services со сбором показателей производитлеьности.
 * ⚡ [YY.DBTools](https://github.com/YPermitin/YY.DBTools) - утилиты для различных СУБД (мониторинг, диагностика и другие задачи).
-* ⚡ [YPermitin.YellowCollection](https://github.com/YPermitin/YPermitin.YellowCollection) - авторская коллекция разработок на платформе 1С для различных задач. От анализа производительности и помощи в разработке, то аудита и проверки учета.
+* ⚡ [YPermitin.YellowCollection](https://github.com/YPermitin/YPermitin.YellowCollection) - авторская коллекция разработок на платформе 1С для различных задач. От анализа производительности и помощи в разработке, до аудита и проверки учета.
 
 ### **Архивные проекты**:
 
