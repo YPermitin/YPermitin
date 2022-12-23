@@ -19,13 +19,4 @@
 * ⚡ [YY.DBTools](https://github.com/YPermitin/YY.DBTools) - утилиты для различных СУБД (мониторинг, диагностика и другие задачи).
 * ⚡ [YellowCollection](https://github.com/YPermitin/YPermitin.YellowCollection) - авторская коллекция разработок на платформе 1С для различных задач. От анализа производительности и помощи в разработке, до аудита и проверки учета.
 
-### **Архивные проекты**:
-
-* ⚡ [YY.EventLogReaderAssistant](https://github.com/YPermitin/YY.EventLogReaderAssistant) & [YY.EventLogExportAssistant](https://github.com/YPermitin/YY.EventLogExportAssistant) - библиотеки для работы с журналом регистрации платформы 1С.
-* ⚡ [YY.TechJournalReaderAssistant](https://github.com/YPermitin/YY.TechJournalReaderAssistant) & [YY.TechJournalExportAssistant](https://github.com/YPermitin/YY.TechJournalExportAssistant) - библиотеки для работу с технологическим журналом платформы 1С.
-* ⚡ [YY.YellowDiagnostician](https://github.com/YPermitin/YY.YellowDiagnostician) - экспериментальная компонента для платформы 1С для диагностики работы процессов.
-* ⚡ [MagickPlatformHistory](https://github.com/YPermitin/MagickPlatformHistory) - секретный репозиторий 😄 с историе публикаций некоторых продуктов.
-* ⚡ [YellowYard.NET](https://github.com/YPermitin/YellowYard.NET) - простой список проектов, где мир .NET встречается с 1С.
-* ⚡ [PerformanceMeasurementsAnalyzer-for-1C-Enterprise](https://github.com/YPermitin/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x) - отчет для анализа данных метрик производительности по методике Apdex.
-
 ### Также Вы можете найти меня [на моем сайте](https://ypermitin.github.io/), а новости по проектам или новым материалам в [Telegram-канале](https://t.me/TinyDevVault).
